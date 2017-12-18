@@ -17,3 +17,6 @@ Dependency:
 
 Make sure secgroups/firewalls are configured properly in the workers so that port can be reached from the master.
 
+**Pre-requisites:**
+
+1. Clone oo-inventory code (https://github.com/oneops/oneops-inventory) to your deployment VM. 
