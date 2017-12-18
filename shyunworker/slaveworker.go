@@ -22,7 +22,7 @@ import (
 	"github.com/kaushiksriram100/ansible-deployer-dist/shyunutils"
 )
 
-const OO_API_TOKEN = "xzRatZ4Spz8j644ZRxxb"
+const OO_API_TOKEN = "<sorry>"
 
 func RunAnsible(logdir *string, logfile *os.File, request *shyunutils.RequestMessage, subresponsestream chan string) {
 	log.SetOutput(logfile)
