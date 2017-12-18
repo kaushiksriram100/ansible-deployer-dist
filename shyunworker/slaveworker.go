@@ -19,7 +19,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/kaushiksriram100/ansible-deployer-sriram-dist/shyunutils"
+	"github.com/kaushiksriram100/ansible-deployer-dist/shyunutils"
 )
 
 const OO_API_TOKEN = "xzRatZ4Spz8j644ZRxxb"

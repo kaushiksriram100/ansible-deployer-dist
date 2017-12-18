@@ -15,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kaushiksriram100/ansible-deployer-sriram-dist/shyunutils"
+	"github.com/kaushiksriram100/ansible-deployer-dist/shyunutils"
 )
 
 const maxretries int = 5 //max number of times to retry with different slaves. helps in calling the recursion function dialTCP

@@ -12,3 +12,8 @@ To run the code:
 ./slaveworker -port "3002"
 
 ```
+
+Dependency: 
+
+Make sure secgroups/firewalls are configured properly in the workers so that port can be reached from the master.
+
