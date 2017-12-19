@@ -1,5 +1,5 @@
 
-1. Deploy a neat ansible deployment environment (install ansible software, keys and users)
+1. Deploy a neat ansible deployment environment (install ansible software, keys and users). Can have an ansible playbook that will do this. 
 2. compile and deploy the slaveworker to the deployment environments
 3. Deploy a dispatcher env (any VM) and compile the dispatcher code and copy there. 
 
